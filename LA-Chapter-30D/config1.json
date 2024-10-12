@@ -1,0 +1,5 @@
+{
+    "app_name": "AppFromJSON",
+    "port": 8081,
+    "debug": true
+  }
