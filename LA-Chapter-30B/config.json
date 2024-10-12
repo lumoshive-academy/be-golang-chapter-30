@@ -1,0 +1,12 @@
+{
+    "app_name": "MyApp",
+    "port": 8080,
+    "debug": true,
+    "database": {
+        "user": "dbuser",
+        "password": "dbpassword",
+        "host": "localhost",
+        "port": 5432,
+        "name": "dbname"
+    }
+}
